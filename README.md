@@ -135,7 +135,7 @@ There are no further plans to extend this study to date (May 2023)
 
 ### Contributing & Support: 
 
-If you're interested in contributing to this project, need to report issues or submit pull requests, please get in touch via GitHub [@LottieJane1312](https://github.com/LottieJane1312)
+If you're interested in contributing to this project, need to report issues or submit pull requests, please get in touch via GitHub [@LottieJane1312](https://github.com/LottieJane1312) [@samanthas30](https://github.com/samanthas30)
 
 ### License: 
 
