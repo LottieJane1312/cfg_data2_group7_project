@@ -54,6 +54,7 @@ Raw data sources for this study:
 
 ### Repository Inventory: 
 ```
+'homework_week2_specialisation_grouphomework/' contains our Homework submission & supporting files
 'data/csv/' contains raw & cleansed data for the project
 'data/img' contains .png files of our project visualisations
 'data/london_boroughs_included.html' local host .html file interactive map 
