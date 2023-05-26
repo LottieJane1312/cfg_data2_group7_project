@@ -50,6 +50,7 @@ Raw data sources for this study:
 
 * http://insideairbnb.com/get-the-data/
 * https://data.police.uk/data/
+* https://www.rightmove.co.uk/house-prices-in-London.html
 
 ### Repository Inventory: 
 ```
