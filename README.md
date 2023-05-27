@@ -58,7 +58,10 @@ Raw data sources for this study:
 'data/csv/' contains raw & cleansed data for the project
 'data/img' contains .png files of our project visualisations
 'notebooks/' contains Jupyter Notebook files for the project 
+
 'notebooks/initial_stages_exploratory_analysis/' contains the groups initial stages of exploratory analysis with both these datasets & other potential projects we were considering
+!! NB: do not run 'initial_stages_exploratory_analysis' files they are for info only - these are individual, local Notebooks that do not have supporting files uploades as it was initial EDA!! 
+
 'archived_files/out_versioned_code/' contains archived documents including .ipynb, .xlsx, .py files detailing avenues of exploration within the project that were either out-versioned or came to a dead-end
 'Code_first_girls_project_documents/' - contains Code First Girls required documentation of the project process & result findings, project brief & supporting documents
 ```
@@ -98,6 +101,8 @@ curl --request GET \
 
 **Code Execution** - 
 ```
+!! NB: large .csv.gz & .csv files have been zipped, this may cause an issue with the file path, please unzip locally before running the notebooks 
+
 Run Jupyter Notebook Script airbnb_dataset_cleansing_general.ipynb to load & cleanse the AirBnB Dataset
 Run Jupyter Notebook Script police_street_dataset_cleansing_general.ipynb to load & cleanse the Metropolitan & City of London Police Crime Dataset
 Run Jupyter Notebook Scrpt api_call_boroughs_visualisation_map.ipynb to make an API request to www.geoapify.com & plot London Boroughs on an interacitve map via www.nominatim.openstreetmap.org
