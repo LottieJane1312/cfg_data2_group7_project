@@ -57,12 +57,10 @@ Raw data sources for this study:
 'homework_week2_specialisation_grouphomework/' contains our Homework submission & supporting files
 'data/csv/' contains raw & cleansed data for the project
 'data/img' contains .png files of our project visualisations
-'data/london_boroughs_included.html' local host .html file interactive map 
 'notebooks/' contains Jupyter Notebook files for the project 
-'archive/out_versioned_code/' contains archived documents including .ipynb, .xlsx, .py files detailing avenues of exploration within the project that were either out-versioned or came to a dead-end
-'archive/initial_stages_exploratory_analysis/' contains the groups initial stages of exploratory analysis with both these datasets & other potential projects we were considering
-'Project Document Submission - Group 7.pdf' - Code First Girls required documentation of the project process & result findings 
-'Project Activity Log - Group 7.xlsx' - Code First Girls required documentation of the project activity by author
+'notebooks/initial_stages_exploratory_analysis/' contains the groups initial stages of exploratory analysis with both these datasets & other potential projects we were considering
+'archived_files/out_versioned_code/' contains archived documents including .ipynb, .xlsx, .py files detailing avenues of exploration within the project that were either out-versioned or came to a dead-end
+'Code_first_girls_project_documents/' - contains Code First Girls required documentation of the project process & result findings, project brief & supporting documents
 ```
 
 ### Installation & Configuration: 
@@ -103,9 +101,9 @@ curl --request GET \
 Run Jupyter Notebook Script airbnb_dataset_cleansing_general.ipynb to load & cleanse the AirBnB Dataset
 Run Jupyter Notebook Script police_street_dataset_cleansing_general.ipynb to load & cleanse the Metropolitan & City of London Police Crime Dataset
 Run Jupyter Notebook Scrpt api_call_boroughs_visualisation_map.ipynb to make an API request to www.geoapify.com & plot London Boroughs on an interacitve map via www.nominatim.openstreetmap.org
-Run Jupyter Notebook Script *insert_name* to analyse AirBnB dataset
-Run Jupyter Notebook Script *insert_name* to analyse Metropolitan Police dataset
-Run Jupyter Notebook Script *insert_name* for comparrison analysis & visualisations
+Run Jupyter Notebook Script data_analysis_airbnb_dataset.ipynb to analyse AirBnB dataset
+Run Jupyter Notebook Script police_street_data_analysis.ipynb to analyse Metropolitan Police & City of London Police dataset
+Run Jupyter Notebook Script final_combined_police_airbnb_data_analysis.ipynb for comparrison analysis & visualisations
 ```
 
 ### Code Base Documentation: 
@@ -136,7 +134,7 @@ There are no further plans to extend this study to date (May 2023)
 
 ### Contributing & Support: 
 
-If you're interested in contributing to this project, need to report issues or submit pull requests, please get in touch via GitHub [@LottieJane1312](https://github.com/LottieJane1312) [@samanthas30](https://github.com/samanthas30)
+If you're interested in contributing to this project, need to report issues or submit pull requests, please get in touch via GitHub [@LottieJane1312](https://github.com/LottieJane1312) [@samanthas30](https://github.com/samanthas30) [@honormcgrigor](https://github.com/Honormcgrigor)
 
 ### License: 
 
