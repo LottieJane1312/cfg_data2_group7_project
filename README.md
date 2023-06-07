@@ -16,15 +16,15 @@
 
 ## Table of Contents: 
 
-* [Project Description](#project-description-)
-* [Data Sources](#data-sources-)
-* [Repository Inventory](#repository-inventory-)
-* [Installation & Configuration](#installation--configuration-)
-* [Code Base Documentation](#code-base-documentation-)
-* [Roadmap](#roadmap-)
-* [Contributing & Support](#contributing--support-)
-* [License](#license-)
-* [Credits](#credits-)
+* [Project Description](#project-description)
+* [Data Sources](#data-sources)
+* [Repository Inventory](#repository-inventory)
+* [Installation & Configuration](#installation--configuration)
+* [Code Base Documentation](#code-base-documentation)
+* [Roadmap](#roadmap)
+* [Contributing & Support](#contributing--support)
+* [License](#license)
+* [Credits](#credits)
 
 -------
 
